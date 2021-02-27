@@ -4,5 +4,5 @@
 - 🌱 I'm currently learning basic UI/UX Design.
 - 🐍 I'm currently improving on Python, JavaScript, HTML, and CSS.
 - 🤖 I'm currently working on a Discord bot and my personal website.
-- 📫 How to reach me: briankoehler@gmail.com
+- 📫 How to reach me: briandkoehler@gmail.com
 - ⚡ Fun fact: I'm part of a diabolo performance group in my freetime!
