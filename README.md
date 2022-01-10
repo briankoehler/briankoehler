@@ -33,7 +33,7 @@
 
 
 <a href="https://git.io/streak-stats#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=briankoehler&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=0D1117" width="100%" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=briankoehler&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=0D1117" width="75%" />
 </a>
 
 <!-- <a href="https://github.com/briankoehler/github-readme-stats#gh-light-mode-only">
