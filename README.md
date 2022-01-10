@@ -17,14 +17,14 @@
 ---
 
 <a href="https://git.io/streak-stats#gh-light-mode-only">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=briankoehler" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=briankoehler" />
 </a>
 <a href="https://git.io/streak-stats#gh-dark-mode-only">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=briankoehler&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=0D1117" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=briankoehler&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=0D1117" />
 </a>
 <a href="https://github.com/briankoehler/github-readme-stats#gh-light-mode-only">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=briankoehler&layout=compact" width="33%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=briankoehler&layout=compact" width="33%" />
 </a>
 <a href="https://github.com/briankoehler/github-readme-stats#gh-dark-mode-only">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=briankoehler&layout=compact&theme=dark&bg_color=0d1117" width="43%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=briankoehler&layout=compact&theme=dark&bg_color=0d1117" width="43%" />
 </a>
