@@ -26,5 +26,5 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=briankoehler&layout=compact" width="33%" />
 </a>
 <a href="https://github.com/briankoehler/github-readme-stats#gh-dark-mode-only">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=briankoehler&layout=compact&theme=dark&bg_color=0d1117" width="33%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=briankoehler&layout=compact&theme=dark&bg_color=0d1117" width="43%" />
 </a>
