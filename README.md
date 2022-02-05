@@ -14,7 +14,7 @@
 - 🌱 Learning AWS, Vue, and .NET
 - 📫 How to reach me: briandkoehler@gmail.com
 
----
+<!-- ---
 
 <a href="https://git.io/streak-stats#gh-light-mode-only" align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=briankoehler" width="66%" />
@@ -23,4 +23,4 @@
 
 <a href="https://git.io/streak-stats#gh-dark-mode-only" align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=briankoehler&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=0D1117" width="66%" />
-</a>
+</a> -->
