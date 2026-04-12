@@ -1,5 +1,5 @@
 ### Hi there! 👋 I'm Brian Koehler.
 
-- 🏫 SDE2 @ Project Kuiper, Amazon
+- 🏫 SDE2 @ Amazon Prime Video
 - 🌱 Working with Rust
 - 📫 How to reach me: briandkoehler@gmail.com
